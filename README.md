@@ -1,6 +1,6 @@
 # 🧑🏻 About Me:
-🔭 Hi Everyone! I'm Cetin Mutlu.<br>🐧I'm currently working as Operating Systems Administrator.<br>🌱 I’m learning Python.<br>🤝I'm interested in Linux, Cloud Computing and DevOps.<br>📧You can reach me via
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)] cetinmutluona@gmail.com
+🔭 Hi Everyone! I'm Cetin Mutlu.<br>🐧I'm currently working as Operating Systems Administrator.<br>🌱 I’m learning Python.<br>🤝I'm interested in Linux, Cloud Computing and DevOps.<br>![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)  You can reach me via
+cetinmutluona@gmail.com
 
 
 ## 🌐 Socials:
